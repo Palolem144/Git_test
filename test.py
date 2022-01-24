@@ -6,4 +6,4 @@ for i in range (0, 6):
     b = int(input())
     A_rr.append(b)
     A_rr.sort()
-    
+    print(A_rr)
